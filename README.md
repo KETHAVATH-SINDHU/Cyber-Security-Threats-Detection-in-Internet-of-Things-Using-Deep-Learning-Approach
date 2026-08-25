@@ -6,7 +6,10 @@
 This repository houses a production-grade, modular, and portable deep learning framework designed to detect cybersecurity intrusions and traffic anomalies in high-throughput IoT networks.
 
 ---
+## 💻 My Contribution
+I worked on the frontend/dashboard for this project — building the Streamlit analytics interface (`app.py`) and the Flask-based SOC web console (`server.py`, `templates/`, `static/`) that displays live threat detection results.
 
+---
 ## 👥 Project Team & Metadata
 * **Batch Number:** DS11
 * **Project Team Members:**
