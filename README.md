@@ -1,6 +1,7 @@
 # Cyber Security Threats Detection in Internet of Things Using Deep Learning Approach
 
 > This is my fork of the original team project, kept here for my GitHub portfolio.
+>  Original repository: https://github.com/srkcodes1003/Cyber-Security-Threats-Detection-in-Internet-of-Things-Using-Deep-Learning-Approach
 
 This repository houses a production-grade, modular, and portable deep learning framework designed to detect cybersecurity intrusions and traffic anomalies in high-throughput IoT networks.
 
